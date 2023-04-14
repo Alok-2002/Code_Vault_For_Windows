@@ -1,0 +1,25 @@
+Copyright 2023 Alok_Sharma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Encryption And Decryption App”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Thank you for choosing our software. Before using our software, you must read and agree to the following terms and conditions:
+
+Grant of License. We hereby grant you a non-exclusive, non-transferable license to use our software, subject to the terms and conditions of this agreement.
+
+Restrictions. You may not copy, modify, distribute, sell or transfer the software or any portion thereof, without our prior written consent.
+
+Ownership. The software is owned by us and is protected by copyright laws and international treaty provisions. We retain all rights, title, and interest in and to the software.
+
+Warranty. We do not warrant that the software will meet your requirements or that it will operate uninterrupted or error-free. The software is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+Limitation of Liability. In no event shall we be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with the use or inability to use the software.
+
+Termination. This agreement shall terminate immediately upon your breach of any of its terms and conditions. Upon termination, you shall immediately cease all use of the software.
+
+Governing Law. This agreement shall be governed by and construed in accordance with the laws of Self Programming, and any dispute arising out of or in connection with this agreement shall be subject to the exclusive jurisdiction of the courts of Self Programming.
+
+By using the software, you agree to be bound by the terms and conditions of this agreement. If you do not agree to the terms and conditions of this agreement, do not use the software
