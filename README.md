@@ -52,6 +52,6 @@ The Code Vault app is open-source and released under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please contact [Alok Sharma] at [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com).
+If you have any questions, suggestions, or issues, please contact [Alok Sharma](mailto:sharmaalok02gwl@gmail.com).
 
 Thank you for choosing Code Vault! Keep your data secure with ease.
