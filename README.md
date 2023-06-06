@@ -2,6 +2,12 @@
 
 Code Vault is a Windows application that provides encryption and decryption of text using the Base64 algorithm and a secret key. This app allows users to securely store and share sensitive information by encoding it into Base64 format with a secret key.
 
+
+
+
+![Screenshot 2023-05-20 100746](https://github.com/Alok-2002/Code_Vault_For_Windows/assets/93814546/cbb3d200-7813-4ce1-b0f2-e7c836f3c5ca)
+
+
 ## Installation
 
 To install the Code Vault app on your Windows PC, please follow these steps:
